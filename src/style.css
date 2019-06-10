@@ -4,3 +4,21 @@
     width: 100%;
 
 }
+
+.button-intelie {
+    margin-left: 15px;
+}
+
+.content-display {
+  
+    display: flex;
+
+}
+
+@media (max-width: 1000px) 
+{
+  .content-display 
+   {
+    display: block;
+   }
+}
